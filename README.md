@@ -1,4 +1,7 @@
 # Python Package Template
+
+[![Run on Repl.it](https://repl.it/badge/github/BD103/python-package-template)](https://repl.it/github/BD103/python-package-template)
+
 Fork this project to start developing a Python package.
 
 ## General File Structure
